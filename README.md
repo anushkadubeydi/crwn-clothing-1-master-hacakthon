@@ -4,6 +4,13 @@ Before we move forward take a look at the website, register yourself with it and
 
 "Crown Clothing" Crown Clothing Ltd. is an E-commerce Website where you can go and shop for clothing.
 
+"Visuals"
+desktop view
+https://user-images.githubusercontent.com/47336885/88493158-aa1b5100-cf7d-11ea-8b99-3a073acd3dab.png
+
+mobile view
+https://user-images.githubusercontent.com/47336885/88493250-1c8c3100-cf7e-11ea-858b-9af4564d63c1.png
+
 Technology Used
 JavaScript, React, Redux, Redux-Saga, React Hooks, Express.js, Node.js, Material UI, HTML5, CSS3, Firebase, SCSS, Styled-Components, Git
 JavaScript as the base developement language.
