@@ -1,7 +1,5 @@
 # crwn-clothing-1-master-hacakthon
 Description
-Before we move forward take a look at the website, register yourself with it and try and play around with things.  
-
 "Crown Clothing" Crown Clothing Ltd. is an E-commerce Website where you can go and shop for clothing.
 
 "Visuals"
